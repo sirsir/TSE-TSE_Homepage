@@ -1,0 +1,410 @@
+[6 tabs above]
+
+About Us / Home	Company's Overview	Business Detail (Thailand/Offshore)	Business Record	Contact Us
+
+
+[Main Blue Header]
+Business Record
+
+[3 Light Blue Headers]
+Customer		System's Name	Details
+
+1.
+[4 White Headers which are the same for just the 3rd column]
+Manufacturing Industry (Automobile's Parts)	Bonded System Requirement Definition		Period	Jan 2010 - April 2010 
+
+[Grey Table Left Side]
+BOI (bonded) system analysis, requirement definition (fundamental design)
+In addition to BOI, investigate on each mechanism of IPO, BIS19, FTA and others and design the system's fundamentals
+
+[Grey Table Right Side]	(Comment: The left cells are the same for every content so I will skip writing about right side of grey table from now on)
+Environment	PC
+OS	WINDOWS
+Language	-
+D/B	-
+
+2. 
+[4 White Headers]
+Manufacturing Facility Sales	Business Supporting System	Period	May 2009 - Sep 2009
+
+[Grey Table Left Side]
+Customer management
+Business staff's action management 
+Managed received orders's performance and etc
+
+3. 
+[4 White Headers]
+Manufacturing Industry (Automobile's Parts)	Production Management System	Period	From Mar 2009
+
+[Grey Table Left Side]
+Build the manufacturing management system
+
+4. 
+[4 White Headers]
+Manufacturing Industry (Automobile's Parts)	Production Management System, Parts Table BOM Maganagement System	Period	Mar 2009 - Aug 2009
+
+[Grey Table Left Side]
+Build the BOM management system for parts table
+
+5. 
+[4 White Headers]
+Manufacturing Industry (Harddisk's Precision Parts)	Production Management System	Period	From Mar 2009
+
+[Grey Table Left Side]
+Build the manufacturing management system
+
+6. 
+[4 White Headers]
+Bangkok International Airport	Passenger's Baggage Management System Expansion	Period	From Feb 2009
+
+[Grey Table Left Side]
+Expanded the passenger's baggage management system.
+
+7. 
+[4 White Headers]
+Manufacturing Industry (Auto Logistics)		Barcode Management System		Period	Feb 2008 - May 2008
+
+[Grey Table Left Side]
+???
+Applied barcode to the system
+
+8. 
+[4 White Headers]
+Tsukuba Software Engineering	SCATT-MOBILE	Period	Jun 2008 - Aug 2008
+
+[Grey Table Left Side]
+Developed the website which mobilely manage the schedule
+
+[Use below for 9. and 10.]
+(OK/NG”»’è in Japanese is translates to Judgement or Decision in English, which I found it not the good translation for that meaning)
+(I asked Dan and think the best word for this is "inspection")
+
+9. 
+[4 White Headers]
+Control Equipment	???	Period	Jun 2009 - Oct 2009
+
+[Grey Table Left Side]
+???
+
+10. 
+[4 White Headers]
+Control Equipment	???	Period	Jun 2009 - Oct 2009
+
+[Grey Table Left Side]
+???
+
+11. 
+[4 White Headers]
+Warehouse, Logistics Business	Warehouse Management System 	Period	Feb 2008 - Jun 2008
+
+[Grey Table Left Side]
+Data transfer/input by using barcode
+Auto-issue delivery note, etc.
+
+12. 
+[4 White Headers]
+Precision Equipment (Camera)	Unicode Converter		Period	Jul 2008 - Jul 2008
+
+[Grey Table Left Side]
+Created display library for Thai and Arabic alphabets 
+
+13. 
+[4 White Headers]
+Manufacturing Industry (Home Appliances)	Akari Wave	Period	Jun 2008 - Jul 2008
+
+[Grey Table Left Side]
+Web application which can create design, draw every shapes and able to add write image which contains the data (name, price)
+
+14. 
+[4 White Headers]
+Trading Company	Trading, Warehouse Management System	Period	Apr 2008 - Jun 2008
+
+[Grey Table Left Side]
+Trading company's business management system
+Managed purchasement, sales and warehouse
+Partial stock prediction function
+Seperated BOI quatity stock from non-BOI quantity stock (added)
+
+15. 
+[4 White Headers]
+Manufacturing Industry (Harddisk's Precision Parts)	Search Result Tracking System	Period	Jan 2008 - Nov 2008
+
+[Grey Table Left Side]
+Coorperated with manufacturing facilities such as inspector and the others
+Stored search result of manufacturing process into the database and (TODO: Ask Nakayama-san for the meaning of this sentence)
+Tracking system which is specified with barcode
+Drew search result into a graph by using MINITAB then transfer the data
+
+16. 
+[4 White Headers]
+Manufacturing Industry (Automobile)	Operation and Maintenance	Period	From Jul 2007
+
+[Grey Table Left Side]
+Operated and managed system for car assembly factory and other related companies
+Solved the problem while operating the system, also did the daily insepction, etc
+
+17. 
+[4 White Headers]
+Trading Company	Trading Company's Logistics Management System (IPO)	Period	From 2007
+
+[Grey Table Left Side]
+Management system (purchasing, selling, managing stock, etc.) for trading company's business
+Partial stock prediction function
+Managed IPO (BOI)
+
+18. 
+[4 White Headers]
+Heavy Industry	Passenger's Baggage Management System Operation and Maintenace	Period	Jan 2007 - Sep 2007
+
+[Grey Table Left Side]
+Operated and maintained backage handling system (BHS)
+for Bangkok's new international airport (built in 2006)
+
+=====
+(Comment: Please skip 19. , I accidentailly added it)
+=====
+
+20. 
+[4 White Headers]
+Precision Equipment (Camera)	Information Management System for Online Bulletin Board	Period	From Dec 2006
+
+[Grey Table Left Side]
+Made it possible to collecting and surveying information related to products on bulletin board on internet.
+Also processed the information, such as grouping data by keyword, data searching, data aggregation, etc.
+
+21. 
+[4 White Headers]
+Precision Equipment (Camera)	Image Processing, etc.	Period	From 2006
+
+[Grey Table Left Side]
+RAW8 Analyze Add Switch 16/14/12bit Color Depth
+Modified (opera master) production control system
+Auto image collecting system
+Developed image mapping tool 
+
+22. 
+[4 White Headers]
+Manufacturing Industry (Automobile's Parts)	Production Management System (IPO,BOI)	Period	Aug 2006 - Jan 2007
+
+[Grey Table Left Side]
+Supported the manufacturing management system and trading company's business
+Managed some parts related to BOI and IPO 
+
+23.  (Entire table is purple)
+[4 Purple Headers]
+Heavy Industry	Passenger's Baggage Management System	Period	2003 - 2006
+
+[Purple Table Left Side]
+
+
+24. 
+[4 White Headers]
+Trading Company	???	Period	2006
+
+[Grey Table Left Side]
+
+25. 
+[4 White Headers]
+Manufacturing Industry (Home Appliances)	???	Period	2006
+
+[Grey Table Left Side]
+
+26. 
+[4 White Headers]
+Trading Company	???	Period	2006
+
+[Grey Table Left Side]
+
+27. 
+[4 White Headers]
+???	CAD Data Convert Tool	Period	2006
+
+[Grey Table Left Side]
+
+28. 
+[4 White Headers]
+Tsukuba Software (Camera Manufacturing)	???	Period	2005
+
+[Grey Table Left Side]
+
+29.
+[4 White Headers]
+Tsukuba Software (Camera Manufacturing)	???	Period	2005
+
+[Grey Table Left Side]
+
+30.
+[4 White Headers]
+???		VMI(Vendor Management Inventory)	Period	Jan 2005 - Apr 2005
+
+[Grey Table Left Side]
+
+31.
+[4 White Headers]
+Manufacturing Industry (Home Appliances)	???	Period	Mar 2005 - Jul 2005
+
+[Grey Table Left Side]
+
+32.
+[4 White Headers]
+Trading Company	???	Period	Nov 2004 - Mar 2005
+
+[Grey Table Left Side]
+
+33.
+[4 White Headers]
+Manufacturing Industry (???), Trading Company	Production Management System for DFZ-Orient Trading Company	Period	Apr 2004 - Mar 2005
+
+[Grey Table Left Side]
+
+34.
+[4 White Headers]
+Tsukuba Software (Camera Manufacturing)	???	Period	2004 
+
+[Grey Table Left Side]
+
+35.
+[4 White Headers]
+Logistics Business	Warehouse Management System	Period	2004 
+
+[Grey Table Left Side]
+
+36.
+[4 White Headers]
+Trading Company	???	Period	2004 
+
+[Grey Table Left Side]
+
+37.
+[4 White Headers]
+Manufacturing Industry : Plastic Molding 2	Production Management System (Molding, Assembly)	Period	2003 - 2004 
+
+[Grey Table Left Side]
+
+38.
+[4 White Headers]
+Manufacturing Industry : Motorcycle's Parts	Production Management System (Molding, Assembly)	Period	2003 - 2004 
+
+[Grey Table Left Side]
+
+39.
+[4 White Headers]
+Tsukuba Software Engineering	???	Period	2003
+
+[Grey Table Left Side]
+
+40.
+[4 White Headers]
+Manufacturing Industry	???	Period	2003
+
+[Grey Table Left Side]
+
+41.
+[4 White Headers]
+Japan National University	???	Period	2003
+
+[Grey Table Left Side]
+
+42.
+[4 White Headers]
+Manufacturing Industry : Automobile	PAINT PRO	Period	2003
+
+[Grey Table Left Side]
+
+43.
+[4 White Headers]
+Manufacturing Industry : Plastic Molding		Production Management System	Period	2002 - 2003
+
+[Grey Table Left Side]
+
+44.
+[4 White Headers]
+Manufacturing Industry	???	Period	1998 - 2003
+
+[Grey Table Left Side]
+
+45.
+[4 White Headers]
+Trading Company	Warehouse Management System	Period	2002 - 2003
+
+[Grey Table Left Side]
+
+46.
+[4 White Headers]
+Trading Company	???	Period	2001 - 2002
+
+[Grey Table Left Side]
+
+47.
+[4 White Headers]
+???	Warehouse Management System (Steel Coil)	Period	2001
+
+[Grey Table Left Side]
+
+48.
+[4 White Headers]
+Thai/Tsukuba Software Engineering	PHOTO G-METS	Period	2000
+
+[Grey Table Left Side]
+
+49.
+[4 White Headers]
+Logistics Business	Warehouse Management System (Television)	Period	2000
+
+[Grey Table Left Side]
+
+50.
+[4 White Headers]
+Tsukuba Software Engineering	ROCKY-21	Period	2000
+
+[Grey Table Left Side]
+
+51.
+[4 White Headers]
+Construction-related Rental Business	Warehouse Management System	Period	2000
+
+[Grey Table Left Side]
+
+52.
+[4 White Headers]
+Construction-related Rental Business	Y2K Correspondence	Period	1999
+
+[Grey Table Left Side]
+
+53.
+[4 White Headers]
+Manufacturing Industry	Y2K Correspondence	Period	1999
+
+[Grey Table Left Side]
+
+54.
+[4 White Headers]
+Manufacturing Industry : Metal Casting	Cost Calculator	Period	1998 - 1999
+
+[Grey Table Left Side]
+
+55.
+[4 White Headers]
+Sales Company	Advertisement Management System	Period	1997
+
+[Grey Table Left Side]
+
+56.
+[4 White Headers]
+Tsukuba Software Engineering	Packaged Software Sales  Management System	Period	1997
+
+[Grey Table Left Side]
+
+
+57.
+[4 White Headers]
+Manufacturing Industry	Production Management System	Period	1996
+
+[Grey Table Left Side]
+
+58.
+[4 White Headers]
+Manufacturing Industry	Production Management System	Period	1991
+
+[Grey Table Left Side]
+
